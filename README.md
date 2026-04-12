@@ -1,55 +1,122 @@
-<!-- Header -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:301E67,70:5B8FB9,100:03001C&height=220&section=header&text=Ishita%20Katiyar&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20AI%20Systems&descAlignY=58&descSize=17&descColor=B6C9F0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=200&section=header&text=Ishita%20Katiyar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20AI%20Systems&descAlignY=60&descSize=17&descColor=A8DADC" />
 </div>
 
-<!-- Typing animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=5B8FB9&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+scalable+systems+that+matter;%F0%9F%A4%96+Agentic+AI+%7C+LLMs+%7C+Distributed+Backends;%E2%AD%90+Ex-Chime+%7C+PhonePe+%7C+Ecolab;%F0%9F%8C%8C+MSCS+%40+USC+%7C+Open+to+SWE+Roles" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-katiyar/)
+  [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+  ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-<!-- Badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/ishita-katiyar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ishitakati11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=iKatiyar&style=for-the-badge&color=5B8FB9&label=Profile+Views" />
 </div>
 
 <br/>
 
 ---
 
-## 🌌 About Me
+## 👩‍💻 Who I Am
 
-<img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=iKatiyar&theme=tokyo-night&hide_border=true&bg_color=03001C&color=5B8FB9&line=301E67&point=5B8FB9&area=true&area_color=301E67" />
+> I'm a **Software Engineer with 3+ years** of experience building production-grade backend systems, REST APIs, and AI-powered applications. I've shipped code used by millions across **fintech (Chime, PhonePe)**, **enterprise (Ecolab)**, and **SaaS (Coursistant)** — with a strong focus on reliability, scalability, and measurable impact.
 
-Software Engineer with **3+ years** building high-impact systems across **fintech**, **SaaS**, and **enterprise**.
+<br/>
 
-🎓 &nbsp;**MSCS @ USC** · GPA 3.81 · AI specialization
+---
 
-💳 &nbsp;**Chime** · GenAI insights platform · **15K+** interactions · escalations ↓ **25%** · manual work ↓ **80%**
+## 🏢 Experience
 
-🏫 &nbsp;**USC Annual Giving** · React + Flask + AWS Lambda · donations ↑ **30%** · reporting ↓ **50%**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-🤖 &nbsp;**Coursistant** · **10+ production APIs** · response time ↓ **35%** · regressions ↓ **30%**
+### 💳 Chime Financial — SWE Intern
+`May 2025 – Dec 2025 · San Francisco, CA`
 
-🌐 &nbsp;**Ecolab** · Full-stack Salesforce · manual effort ↓ **40%** · errors ↓ **25%**
+- Shipped **GenAI Contact Insights** platform processing **15K+** customer interactions using agentic LLM workflows
+- Enabled trend reporting across **10+ product teams**, reducing escalations by **25%**
+- Built event-driven ingestion pipeline with **Ruby on Rails + PostgreSQL**
+- Automated reporting via cron + Slackbot, cutting manual analysis by **80%**
 
-📱 &nbsp;**PhonePe** · MariaDB Galera on AWS · **99.9% uptime** · inconsistencies ↓ **40%**
+</td>
+<td width="50%" valign="top">
 
-📍 &nbsp;**Los Angeles, CA** · Open to full-time SWE roles
+### 🤖 Coursistant — SWE Intern
+`Jan 2025 – May 2025 · Los Angeles, CA`
 
-<br clear="right"/>
+- Delivered **10+ production REST APIs** with Spring Boot & Node.js, throughput ↑ **25%**
+- Reduced API response times by **35%** via caching, query tuning & pagination
+- Cut production regressions by **30%** with tests, CI/CD pipelines & structured logging
+- Integrated **embedding-based AI recommendation** system, engagement ↑ **30%**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Ecolab Digital Center — Associate SWE
+`Sep 2022 – Dec 2023 · Bangalore, India`
+
+- Built Lightning Web Components (LWC) improving internal tool efficiency by **30%**
+- Automated customer onboarding via REST API integrations, manual effort ↓ **40%**
+- Led full-stack feature development reducing system errors by **25%**
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 PhonePe — SWE Intern
+`Mar 2022 – Jul 2022 · Bangalore, India`
+
+- Deployed **MariaDB Galera clusters on AWS** with Terraform — **99.9% uptime**
+- Automated cluster validation with Python, data inconsistencies ↓ **40%**
+- Integrated insurance management APIs into iOS app, efficiency ↑ **30%**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Code Review Agent](https://github.com/iKatiyar/reddit-scraper-and-clustering)
+Stateful **LangGraph** agent that autonomously reviews GitHub PRs — fetches diffs, runs static analysis, and posts inline comments with zero human input.
+
+`Python` `LangGraph` `FastAPI` `Claude API` `PostgreSQL` `Docker` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Vaultify](https://github.com/iKatiyar/private-table)
+Distributed system handling **100K+ API calls/day** at **99.9% uptime** with JWT/OAuth2 auth, BCrypt encryption, and RBAC admin dashboard cutting unauthorized access by **90%**.
+
+`Spring Boot` `React` `Tailwind CSS` `MySQL` `Docker` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [ConversQL](https://github.com/iKatiyar/db-chat)
+Natural language → SQL/NoSQL interface. Regex-based translator improved query accuracy by **50%**. Supports both structured and unstructured databases.
+
+`Python` `Flask` `MongoDB` `SQLAlchemy` `PyMongo`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Stock Trading Model](https://github.com/iKatiyar/stock-price-analysis-and-algorithmic-trading-model)
+ML model for stock price prediction and algorithmic trading signal generation with full exploratory analysis and backtesting.
+
+`Python` `Jupyter` `scikit-learn` `pandas` `matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,68 +124,51 @@ Software Engineer with **3+ years** building high-impact systems across **fintec
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp,html,css&theme=dark&perline=9" />
+**Languages**
 
-### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp&theme=dark&perline=7" />
+
+**Backend & Frontend**
+
 <img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind&theme=dark&perline=8" />
 
-### Cloud, DevOps & Databases
+**Cloud, DevOps & Databases**
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,postgres,mongodb,mysql&theme=dark&perline=9" />
 
-### AI & Tools
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark&perline=9" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-301E67?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-5B8FB9?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1B1464?style=flat-square&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-2E86AB?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
 
-<div align="center">
-
-| ✦ | Project | Description | Stack |
-|:-:|:--------|:------------|:------|
-| 🤖 | [**Code Review Agent**](https://github.com/iKatiyar/reddit-scraper-and-clustering) | Stateful **LangGraph** agent for autonomous GitHub PR review — orchestrates PR fetch, static analysis & comment posting end-to-end | `Python` `LangGraph` `FastAPI` `Claude API` `Docker` `AWS` |
-| 🔐 | [**Vaultify**](https://github.com/iKatiyar/private-table) | Distributed system handling **100K+ API calls/day** · JWT/OAuth2 auth · RBAC admin dashboard · **99.9% uptime** | `Spring Boot` `React` `MySQL` `Docker` `AWS` |
-| 💬 | [**ConversQL**](https://github.com/iKatiyar/db-chat) | Chat with your database in plain English · NL→SQL/NoSQL · accuracy improved by **50%** | `Python` `Flask` `MongoDB` `SQLAlchemy` |
-| 📈 | [**Stock Trading Model**](https://github.com/iKatiyar/stock-price-analysis-and-algorithmic-trading-model) | ML model for stock price prediction and algorithmic trading signal generation | `Python` `Jupyter` `scikit-learn` |
-
-</div>
+| Degree | School | GPA | Year |
+|:-------|:-------|:----|:-----|
+| 🎓 MS Computer Science (AI) | University of Southern California | 3.81 / 4.0 | 2024 – 2025 |
+| 🎓 BE Computer Science | Visvesvaraya Technological University | 9.26 / 10 | 2018 – 2022 |
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iKatiyar&show_icons=true&hide_border=true&count_private=true&bg_color=03001C&title_color=5B8FB9&icon_color=301E67&text_color=B6C9F0&ring_color=5B8FB9" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKatiyar&layout=compact&hide_border=true&bg_color=03001C&title_color=5B8FB9&text_color=B6C9F0" height="160" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iKatiyar&hide_border=true&background=03001C&ring=5B8FB9&fire=5B8FB9&currStreakLabel=5B8FB9&sideLabels=B6C9F0&dates=B6C9F0&currStreakNum=FFFFFF&sideNums=FFFFFF" height="160" />
-</div>
+**💼 Currently open to full-time Software Engineer roles — Backend, Full-Stack, or AI/ML Engineering**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-katiyar/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
 
 <br/>
 
-<!-- Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iKatiyar/iKatiyar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iKatiyar/iKatiyar/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iKatiyar/iKatiyar/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=A8DADC&fontAlignY=70&animation=fadeIn" />
 
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:301E67,70:5B8FB9,100:03001C&height=120&section=footer" />
 </div>
