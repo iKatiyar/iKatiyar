@@ -27,6 +27,10 @@
 
 > I'm a **Software Engineer with 3+ years** of experience building production-grade backend systems, REST APIs, and AI-powered applications. I've shipped code used by millions across **fintech (Chime, PhonePe)**, **enterprise (Ecolab)**, and **SaaS (Coursistant)** — with a strong focus on reliability, scalability, and measurable impact.
 
+<div align="center">
+  <img src="./banner.png" width="80%" alt="Somewhere between where I started and where I'm going — Ishita Katiyar"/>
+</div>
+
 <br/>
 
 ---
