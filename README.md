@@ -133,19 +133,28 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp,html,css&theme=dark&perline=9" />
 
 **Backend & Frontend**
 
-<img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind,angular&theme=dark&perline=9" />
 
 **Cloud, DevOps & Databases**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,postgres,mongodb,mysql&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,postgres,mongodb,mysql,mariadb,dynamodb&theme=dark&perline=9" />
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,openai&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark&perline=9" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1B1464?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs%20%2F%20GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,postman,xcode,idea,jira,swagger&theme=dark&perline=9" />
 
 </div>
 
