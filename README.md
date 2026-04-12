@@ -145,12 +145,7 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark&perline=9" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1B1464?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-2E86AB?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,openai&theme=dark&perline=9" />
 
 </div>
 
