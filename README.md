@@ -1,14 +1,21 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=200&section=header&text=Ishita%20Katiyar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20AI%20Systems&descAlignY=60&descSize=17&descColor=A8DADC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=200&section=header&text=Hi%2C%20I%27m%20Ishita%20Katiyar%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20AI%20Systems&descAlignY=60&descSize=17&descColor=A8DADC" />
 </div>
 
 <div align="center">
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=5B8FB9&center=true&vCenter=true&width=600&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+Distributed+Backends+%F0%9F%A4%96;Ex-Chime+%7C+PhonePe+%7C+Ecolab+%E2%AD%90;MSCS+%40+USC+%7C+Los+Angeles%2C+CA+%F0%9F%8C%8C)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-katiyar/)
-  [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-  ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+  &nbsp;
+  [![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
 
 </div>
 
@@ -150,22 +157,13 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 ---
 
-## 🎓 Education
-
-| Degree | School | GPA | Year |
-|:-------|:-------|:----|:-----|
-| 🎓 MS Computer Science (AI) | University of Southern California | 3.81 / 4.0 | 2024 – 2025 |
-| 🎓 BE Computer Science | Visvesvaraya Technological University | 9.26 / 10 | 2018 – 2022 |
-
----
-
 <div align="center">
 
-**💼 Currently open to full-time Software Engineer roles — Backend, Full-Stack, or AI/ML Engineering**
+**Let's connect!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-katiyar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-katiyar/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakati11@gmail.com)
 
 <br/>
 
