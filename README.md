@@ -169,6 +169,6 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=A8DADC&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile%2C%20see%20you%20next%20time!%20%F0%9F%8C%A0&fontSize=18&fontColor=A8DADC&fontAlignY=68&animation=fadeIn" />
 
 </div>
