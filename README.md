@@ -139,22 +139,33 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 <img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind,angular&theme=dark&perline=9" />
 
-**Cloud, DevOps & Databases**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,postgres,mongodb,mysql,mariadb,dynamodb&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark&perline=9" />
 
-**AI / ML**
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mariadb,dynamodb,redis&theme=dark&perline=9" />
+
+**AI / ML & GenAI**
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark&perline=9" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1B1464?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs%20%2F%20GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,postman,xcode,idea,jira,swagger&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,postman,idea&theme=dark&perline=9" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 </div>
 
