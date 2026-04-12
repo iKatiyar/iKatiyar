@@ -131,33 +131,12 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,postgres,mongodb,mysql,redis&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,git,postman,idea&theme=dark&perline=14" />
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,swift,cpp,html,css&theme=dark&perline=9&titles=true" />
-
-**Backend & Frontend**
-
-<img src="https://skillicons.dev/icons?i=rails,spring,nodejs,express,fastapi,flask,react,tailwind,angular&theme=dark&perline=9&titles=true" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions&theme=dark&perline=9&titles=true" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mariadb,dynamodb,redis&theme=dark&perline=9&titles=true" />
-
-**AI / ML & GenAI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark&perline=9&titles=true" />
-
-`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `LLMs / GenAI` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Cursor`
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,notion,idea&theme=dark&perline=9&titles=true" />
-
-`Xcode` &nbsp;·&nbsp; `Jira` &nbsp;·&nbsp; `Swagger / OpenAPI` &nbsp;·&nbsp; `Slack`
+`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Cursor` &nbsp;·&nbsp; `LLMs / GenAI` &nbsp;·&nbsp; `MariaDB` &nbsp;·&nbsp; `DynamoDB` &nbsp;·&nbsp; `Jira` &nbsp;·&nbsp; `Swagger` &nbsp;·&nbsp; `Xcode`
 
 </div>
 
