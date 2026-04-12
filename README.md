@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=200&section=header&text=Hi%2C%20I%27m%20Ishita%20Katiyar%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20AI%20Systems&descAlignY=60&descSize=17&descColor=A8DADC" />
+  <img src="./banner.png" width="100%" alt="Ishita Katiyar — Somewhere between where I started and where I'm going"/>
 </div>
 
 <div align="center">
@@ -26,10 +26,6 @@
 ## 👩‍💻 Who I Am
 
 > I'm a **Software Engineer with 3+ years** of experience building production-grade backend systems, REST APIs, and AI-powered applications. I've shipped code used by millions across **fintech (Chime, PhonePe)**, **enterprise (Ecolab)**, and **SaaS (Coursistant)** — with a strong focus on reliability, scalability, and measurable impact.
-
-<div align="center">
-  <img src="./banner.png" width="80%" alt="Somewhere between where I started and where I'm going — Ishita Katiyar"/>
-</div>
 
 <br/>
 
