@@ -33,10 +33,10 @@ I build agentic AI systems and high-throughput backend infrastructure that scale
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Code Review Agent](https://github.com/iKatiyar/reddit-scraper-and-clustering)
-Stateful **LangGraph** agent that autonomously reviews GitHub PRs — fetches diffs, runs static analysis, and posts inline comments with zero human input.
+### 🤖 [Code Review Agent](https://github.com/iKatiyar/code-review-agent)
+Stateful **LangGraph** agent that autonomously reviews GitHub PRs — triage → per-file Claude analysis → synthesis — with Celery async workers and full **PostgreSQL-backed auditability**.
 
-`Python` `LangGraph` `FastAPI` `Claude API` `PostgreSQL` `Docker` `AWS`
+`Python` `LangGraph` `FastAPI` `Claude API` `GitHub API` `PostgreSQL` `Docker` `AWS`
 
 </td>
 <td width="50%" valign="top">
