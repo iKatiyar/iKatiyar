@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="./banner.gif" width="100%" alt="Ishita Katiyar — Here to leave a dent in the digital world"/>
+  <img src="./banner.gif" alt="Ishita Katiyar — Here to leave a dent in the digital world"/>
 </div>
 
 <div align="center">
