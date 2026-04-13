@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=5B8FB9&center=true&vCenter=true&width=600&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+Distributed+Backends+%F0%9F%A4%96;Ex-Chime+%7C+PhonePe+%7C+Ecolab+%E2%AD%90;MSCS+%40+USC+%7C+Los+Angeles%2C+CA+%F0%9F%8C%8C)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=5B8FB9&center=true&vCenter=true&width=600&lines=Building+scalable+systems+that+matter+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+Distributed+Backends+%F0%9F%A4%96;)](https://git.io/typing-svg)
 
 </div>
 
@@ -100,5 +100,5 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iKatiyar/iKatiyar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile%2C%20see%20you%20next%20time!%20%F0%9F%8C%A0&fontSize=16&fontColor=A8DADC&fontAlignY=70&animation=fadeIn" />
 </div>
