@@ -41,10 +41,10 @@ Stateful **LangGraph** agent that autonomously reviews GitHub PRs — fetches di
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [Vaultify](https://github.com/iKatiyar/private-table)
-Distributed system handling **100K+ API calls/day** at **99.9% uptime** with JWT/OAuth2 auth, BCrypt encryption, and RBAC cutting unauthorized access by **90%**.
+### 🔐 [Vaultify](https://github.com/iKatiyar/vaultify)
+Full-stack identity & access management system with **JWT + OAuth2** Bearer auth, **BCrypt** encryption, and a React admin dashboard enforcing **RBAC** across three role tiers — cutting unauthorized access by **90%**.
 
-`Spring Boot` `React` `Tailwind CSS` `MySQL` `Docker` `AWS`
+`Spring Boot 3` `React` `Tailwind CSS` `JWT` `OAuth2` `MySQL` `Docker` `AWS`
 
 </td>
 </tr>
