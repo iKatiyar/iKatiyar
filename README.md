@@ -27,17 +27,6 @@
 
 ---
 
-## 🏢 Experience
-
-| | |
-|---|---|
-| **💳 Chime Financial** — SWE Intern &nbsp;`May–Dec 2025` | Shipped GenAI Contact Insights platform processing **15K+ interactions** via agentic LLM workflows, reducing escalations by **25%** |
-| **🤖 Coursistant** — SWE Intern &nbsp;`Jan–May 2025` | Delivered **10+ production REST APIs**, cut response times **35%**, integrated embedding-based AI recommendation system |
-| **🌐 Ecolab Digital Center** — Associate SWE &nbsp;`Sep 2022–Dec 2023` | Built LWC components improving tool efficiency **30%**, automated onboarding cutting manual effort **40%** |
-| **📱 PhonePe** — SWE Intern &nbsp;`Mar–Jul 2022` | Deployed MariaDB Galera clusters on AWS with Terraform at **99.9% uptime** |
-
----
-
 ## 🚀 Projects
 
 <table width="100%">
