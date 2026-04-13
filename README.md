@@ -74,9 +74,9 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,ruby,rails,spring,nodejs,fastapi,react,aws,gcp,docker,postgres,mongodb,pytorch&theme=dark&perline=16" />
-
-`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `LLMs / GenAI` &nbsp;·&nbsp; `Kubernetes` &nbsp;·&nbsp; `Terraform` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `DynamoDB` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `MariaDB`
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,ruby,rails,spring,nodejs,react,aws,gcp,docker,postgres,mongodb,kubernetes,git&theme=dark&perline=16" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,mysql,redis,github,vscode,postman&theme=dark&perline=16" />
 
 </div>
 
@@ -87,18 +87,4 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 - 🌍 &nbsp;I love traveling and immersing myself in new cultures — every city teaches me something a textbook never could.
 - 🏃‍♀️ &nbsp;Staying active keeps me sharp — you'll find me running, hiking, or at the gym when I'm not at my keyboard.
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iKatiyar&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKatiyar&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile%2C%20see%20you%20next%20time!%20%F0%9F%8C%A0&fontSize=16&fontColor=A8DADC&fontAlignY=70&animation=fadeIn" />
-</div>
