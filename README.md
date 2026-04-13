@@ -23,7 +23,7 @@
 
 ## 👩‍💻 Who I Am
 
-> **Software Engineer with 3+ years** building production-grade backend systems, REST APIs, and AI-powered applications. Shipped code used by millions across **fintech (Chime, PhonePe)**, **enterprise (Ecolab)**, and **SaaS (Coursistant)** — with a focus on reliability, scalability, and measurable impact.
+I build agentic AI systems and high-throughput backend infrastructure that scale reliably in production. Right now I'm obsessed with LLMs that can actually *act* — autonomous agents that reason, use tools, and get things done without hand-holding.
 
 ---
 
@@ -82,8 +82,23 @@ ML model for stock price prediction and algorithmic trading signal generation wi
 
 ---
 
+## ✨ Beyond Work
+
+- 🌍 &nbsp;I love traveling and immersing myself in new cultures — every city teaches me something a textbook never could.
+- 🏃‍♀️ &nbsp;Staying active keeps me sharp — you'll find me running, hiking, or at the gym when I'm not at my keyboard.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iKatiyar&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKatiyar&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:1B1464,80:2E86AB,100:03001C&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile%2C%20see%20you%20next%20time!%20%F0%9F%8C%A0&fontSize=18&fontColor=A8DADC&fontAlignY=68&animation=fadeIn" />
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iKatiyar/iKatiyar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
