@@ -60,9 +60,9 @@ Full-stack identity & access management system with **JWT + OAuth2** Bearer auth
 <td width="50%" valign="top">
 
 ### 💬 [ConversQL](https://github.com/iKatiyar/conversql)
-Natural language → SQL/NoSQL interface. Improved query accuracy by **50%**. Supports both structured and unstructured databases.
+Natural language → SQL/MongoDB query engine — **no LLM**. Custom 1,500-line regex parser auto-infers schema from any CSV, assembles SELECT/WHERE/JOIN/GROUP BY/HAVING clauses, and generates MongoDB aggregation pipelines.
 
-`Python` `Flask` `MongoDB` `SQLAlchemy` `PyMongo`
+`Python` `Flask` `MySQL` `MongoDB` `SQLAlchemy` `PyMongo` `Pandas`
 
 </td>
 </tr>
