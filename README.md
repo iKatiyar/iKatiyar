@@ -41,28 +41,28 @@ Stateful **LangGraph** agent that autonomously reviews GitHub PRs — triage →
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [Vaultify](https://github.com/iKatiyar/vaultify)
-Full-stack identity & access management system with **JWT + OAuth2** Bearer auth, **BCrypt** encryption, and a React admin dashboard enforcing **RBAC** across three role tiers — cutting unauthorized access by **90%**.
+### 🍽️ [The Private Table](https://github.com/iKatiyar/private-table)
+AI-powered restaurant recommender — natural language → **Groq query parsing** → OpenStreetMap Overpass search → multi-factor scoring engine → personalized explanation. **Zero hallucinations**, no paid API keys required.
 
-`Spring Boot 3` `React` `Tailwind CSS` `JWT` `OAuth2` `MySQL` `Docker` `AWS`
+`Next.js` `TypeScript` `Groq AI` `OpenStreetMap` `MCP` `React` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [ConversQL](https://github.com/iKatiyar/db-chat)
-Natural language → SQL/NoSQL interface. Improved query accuracy by **50%**. Supports both structured and unstructured databases.
+### 🔐 [Vaultify](https://github.com/iKatiyar/vaultify)
+Full-stack identity & access management system with **JWT + OAuth2** Bearer auth, **BCrypt** encryption, and a React admin dashboard enforcing **RBAC** across three role tiers — cutting unauthorized access by **90%**.
 
-`Python` `Flask` `MongoDB` `SQLAlchemy` `PyMongo`
+`Spring Boot 3` `React` `Tailwind CSS` `JWT` `OAuth2` `MySQL` `Docker` `AWS`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Stock Trading Model](https://github.com/iKatiyar/stock-price-analysis-and-algorithmic-trading-model)
-ML model for stock price prediction and algorithmic trading signal generation with full exploratory analysis and backtesting.
+### 💬 [ConversQL](https://github.com/iKatiyar/db-chat)
+Natural language → SQL/NoSQL interface. Improved query accuracy by **50%**. Supports both structured and unstructured databases.
 
-`Python` `Jupyter` `scikit-learn` `pandas` `matplotlib`
+`Python` `Flask` `MongoDB` `SQLAlchemy` `PyMongo`
 
 </td>
 </tr>
