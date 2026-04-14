@@ -59,7 +59,7 @@ Full-stack identity & access management system with **JWT + OAuth2** Bearer auth
 </td>
 <td width="50%" valign="top">
 
-### 💬 [ConversQL](https://github.com/iKatiyar/db-chat)
+### 💬 [ConversQL](https://github.com/iKatiyar/conversql)
 Natural language → SQL/NoSQL interface. Improved query accuracy by **50%**. Supports both structured and unstructured databases.
 
 `Python` `Flask` `MongoDB` `SQLAlchemy` `PyMongo`
