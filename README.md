@@ -60,7 +60,7 @@ Full-stack identity & access management system with **JWT + OAuth2** Bearer auth
 <td width="50%" valign="top">
 
 ### 💬 [ConversQL](https://github.com/iKatiyar/conversql)
-Natural language → SQL/MongoDB query engine — **no LLM**. Custom 1,500-line regex parser auto-infers schema from any CSV, assembles SELECT/WHERE/JOIN/GROUP BY/HAVING clauses, and generates MongoDB aggregation pipelines.
+Natural language → SQL/MongoDB query engine. Upload any CSV — the engine auto-infers schema, then assembles full **SELECT/WHERE/JOIN/GROUP BY/HAVING** queries or **MongoDB aggregation pipelines** from plain English.
 
 `Python` `Flask` `MySQL` `MongoDB` `SQLAlchemy` `PyMongo` `Pandas`
 
